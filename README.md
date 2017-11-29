@@ -61,3 +61,6 @@ In order to access Twitter Streaming API, we need to get 4 pieces of information
 * Fill out the form, agree to the terms, and click "Create your Twitter application"
 * In the next page, click on "API keys" tab, and copy your "API key" and "API secret".
 * Scroll down and click "Create my access token", and copy your "Access token" and "Access token secret".
+
+### Code
+The code in this repository is released under the [MIT license](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT). All text remains the Intellectual Property of DataCamp. If you wish to reuse, adapt or remix, get in touch with me at hugo at datacamp com to request permission.
